@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/anishasuman/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
