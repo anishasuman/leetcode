@@ -23,8 +23,8 @@ class Solution {
             rev = rev * 10 + x %10;
             x = x / 10;
         }
-        if (x == rev) return true; // Even digits (1221)
-        if (x == rev / 10) return true;// Odd digits (12321)
+        if (x == rev || x == rev / 10) return true; // Even digits (1221)
+       // if (x == rev / 10) return true;// Odd digits (12321)
         return false;
     }
 }
