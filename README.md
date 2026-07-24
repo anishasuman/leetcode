@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/anishasuman/leetcode/tree/master/0218-the-skyline-problem) |
+| [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/anishasuman/leetcode/tree/master/0218-the-skyline-problem) |
+| [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/anishasuman/leetcode/tree/master/0218-the-skyline-problem) |
+## Binary Search
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
