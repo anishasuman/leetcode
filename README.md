@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anishasuman/leetcode/tree/master/0022-generate-parentheses) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anishasuman/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anishasuman/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anishasuman/leetcode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anishasuman/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anishasuman/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
