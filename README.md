@@ -66,9 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anishasuman/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/anishasuman/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anishasuman/leetcode/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anishasuman/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
