@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anishasuman/leetcode/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anishasuman/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anishasuman/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0218-the-skyline-problem](https://github.com/anishasuman/leetcode/tree/master/0218-the-skyline-problem) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anishasuman/leetcode/tree/master/0075-sort-colors) |
 | [0218-the-skyline-problem](https://github.com/anishasuman/leetcode/tree/master/0218-the-skyline-problem) |
 | [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
 ## Heap (Priority Queue)
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anishasuman/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anishasuman/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
