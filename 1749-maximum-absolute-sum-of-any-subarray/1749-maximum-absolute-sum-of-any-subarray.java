@@ -1,10 +1,6 @@
 class Solution {
     public int maxAbsoluteSum(int[] nums) {
-        int csx = nums[0];   // curr maxsum
-        int csn = nums[0];   // curr minisum
-        int ms = nums[0];    // maxsum
-        int mins = nums[0];  // minsum
-     //   int csx = nums[0], csn = nums[0], ms = nums[0], mins = nums[0];
+        int csx = nums[0], csn = nums[0], ms = nums[0], mins = nums[0];
         for(int i = 1; i < nums.length; i++) {
             csx = Math.max(nums[i], csx + nums[i]);
             ms = Math.max(ms, csx);
