@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anishasuman/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anishasuman/leetcode/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anishasuman/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anishasuman/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anishasuman/leetcode/tree/master/0053-maximum-subarray) |
 | [0218-the-skyline-problem](https://github.com/anishasuman/leetcode/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anishasuman/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/anishasuman/leetcode/tree/master/0053-maximum-subarray) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/anishasuman/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anishasuman/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
