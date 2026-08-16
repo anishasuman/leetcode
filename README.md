@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/anishasuman/leetcode/tree/master/0218-the-skyline-problem) |
 | [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0643-maximum-average-subarray-i](https://github.com/anishasuman/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anishasuman/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anishasuman/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anishasuman/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/anishasuman/leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anishasuman/leetcode/tree/master/0053-maximum-subarray) |
 | [0218-the-skyline-problem](https://github.com/anishasuman/leetcode/tree/master/0218-the-skyline-problem) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anishasuman/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anishasuman/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0354-russian-doll-envelopes](https://github.com/anishasuman/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0509-fibonacci-number](https://github.com/anishasuman/leetcode/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/anishasuman/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anishasuman/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anishasuman/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Math
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anishasuman/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/anishasuman/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/anishasuman/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
